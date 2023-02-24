@@ -10,7 +10,8 @@
 * Result
 * Conclusion
 
-https://www.kaggle.com/competitions/gan-getting-started/overview
+
+The Kaggle competition page can be found here: https://www.kaggle.com/competitions/gan-getting-started/overview
 
 
 ### Description of the problem and data:
@@ -25,3 +26,14 @@ monet_jpg_path = '../input/gan-getting-started/monet_jpg'
 
 photo_tfrec_path = '../input/gan-getting-started/photo_tfrec'
 photo_jpg_path = '../input/gan-getting-started/photo_jpg'
+
+
+### Analysis - model building and training:
+
+* Model Architecture:
+
+* Used Architecture : The architecture chosen for this project is DCGAN.
+
+* Hyperparameter Tuning: The hyperparemeter tuning for the chosen model could be performed by using the advice from experts or in trial-and-error fashion
+
+### Result:
